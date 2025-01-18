@@ -18,6 +18,10 @@ def add_to_cart(item_name, price, *args, **kwargs):
 
     return item_details
 
+"""
+    MAIN PROGRAM LOOP
+"""
+
 # A dictionary storage for the items
 cart = {}
 
